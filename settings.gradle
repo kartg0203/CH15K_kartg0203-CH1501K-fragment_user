@@ -1,0 +1,3 @@
+include ':1501_Fragment_User'
+include ':app'
+rootProject.name = "CH15K-fragment"
